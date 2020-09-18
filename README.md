@@ -1,4 +1,4 @@
-# Laravel 7 郵件編輯器
+# Laravel 8 郵件編輯器
 
 引入 qoraiche 的 laravel-mail-editor 套件來擴增輕鬆玩 Laravel Mailables，供 Laravel 應用程式使用 Web 使用者介面建立和管理 Mailables。可以使用此套件來開發 Mailables，而無需使用命令行，以及使用 WYSIWYG 編輯器以及其他功能來編輯與 Mailables 相關的模板。
 
