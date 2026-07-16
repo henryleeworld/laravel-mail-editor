@@ -1,6 +1,6 @@
-# Laravel 11 郵件編輯器
+# Laravel 12 郵件編輯器
 
-引入 hippocharging 的 laravel-mail-editor 套件來擴增輕鬆玩 Laravel Mailables，供 Laravel 應用程式使用 Web 使用者介面建立和管理 Mailables。可以使用此套件來開發 Mailables，而無需使用命令行，以及使用 WYSIWYG 編輯器以及其他功能來編輯與 Mailables 相關的模板。
+引入 jorisvanw 的 laravel-mail-editor 套件來擴增輕鬆玩 Laravel Mailables，供 Laravel 應用程式使用 Web 使用者介面建立和管理 Mailables。可以使用此套件來開發 Mailables，而無需使用命令行，以及使用 WYSIWYG 編輯器以及其他功能來編輯與 Mailables 相關的模板。
 
 ## 使用方式
 - 把整個專案複製一份到你的電腦裡，這裡指的「內容」不是只有檔案，而是指所有整個專案的歷史紀錄、分支、標籤等內容都會複製一份下來。
